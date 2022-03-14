@@ -1,4 +1,4 @@
-# cp3.1
+# cp3
 
 ## Project setup
 ```
